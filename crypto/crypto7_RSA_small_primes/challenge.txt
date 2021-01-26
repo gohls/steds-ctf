@@ -1,0 +1,6 @@
+Again, we are faced to decrypt an RSA encrypted ciphertext. While we don't have all the pieces in this puzzle, there may still be a way given that n is less that 64 bits. Here is what we have:
+n: 0x01A3900C7CD5B305
+d: 0x025F2D1619EF1ABD
+c: 0x28f4f650c37ff9
+
+P.s. Sorry for the math, but it's not like you have to do it in your head.

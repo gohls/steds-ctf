@@ -1,0 +1,7 @@
+I think we have all that we need here to break the RSA crypto ciphertext, but it's about putting together the pieces in this puzzle. Here are the pieces:
+p: 179
+n: 29893
+e: 183
+ciphertext: 16141 14 27451 27747 13140 27451 27747 11539 7589 11302 27747 24878 11302 8408 11539 24878 27747 6220 16864 27747 27451 6220 20365 29647 27747 7810 8408 14004 11539 24878
+
+

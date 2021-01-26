@@ -1,0 +1,4 @@
+As a result of a XOR bitwise operation the following cipher hex output:
+3F37392C783B303D3D2B3D783736782831222239783431333D783A3D3D782C37783037363D21
+Normanly, this one-time pad would be irreversible, BUT a weakness with this key is that it's only 8 bits in size. Hmmm, so the range is not infinite. Lastly, this should help somehow: ETAOIN SHRDLU  
+

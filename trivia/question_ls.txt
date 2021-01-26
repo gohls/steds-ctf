@@ -1,0 +1,5 @@
+1. Something about magic debug numbers like such as DEADBEEF
+2. Something about adding port values (ie http + ssh + ...)
+3. Something about "The Life That I Have" poem
+4. Something about this page https://archive.org/stream/Untangling_the_Web/Untangling_the_Web_djvu.txt
+

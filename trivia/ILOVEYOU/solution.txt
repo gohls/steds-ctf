@@ -1,0 +1,9 @@
+flag: ILOVEYOU
+
+Google search for ...
+
+"Pet Shop Boys"+"E-mail"+"malicious"
+
+...will result in a wiki page ILOVEYOU, which was a worm virus and is the flag.
+
+Make sure Google does not modify the word "E-mail" to "Email" in the search output.    

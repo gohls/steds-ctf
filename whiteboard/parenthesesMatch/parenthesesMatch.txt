@@ -1,0 +1,18 @@
+// return true if all parenthesis characters in the input string
+// are properly matched up, false otherwise
+
+public static boolean parenthesesMatch(String input){
+
+// your code here
+
+}
+
+// some examples:
+
+// "(this (string (is))) ok"
+// "(this (string) is (also)) (ok)"
+// "this string is fine"
+// ") this string is not"
+// "( not ))(() this string either"
+// ")))))))))) definitely not )()()( matched up properly"
+// "()(( this one is ) no good"

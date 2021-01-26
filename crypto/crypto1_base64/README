@@ -1,0 +1,7 @@
+Flag: stedsCTF{b@5e64}
+
+Solution (linux):
+- open terminal 
+- navigate to directory with crypto1 file
+- Enter into terminal "base64 --decode /crypto1 > crypto1_decoded.txt"
+- Open crypto1_decoded.txt to obtain flag

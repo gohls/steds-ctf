@@ -1,0 +1,14 @@
+The idea behind these kinds of challenges is to have students implement certain data structures
+and then show one of us for approval. They have to explain the code to us to ensure that they 
+have a strong grasp on what's going on, and didn't simply copy/paste.
+
+Examples:
+In your chosen language of choice:
+*  Implement a stack with push and pop functions
+*  Implement bubble sort
+*  Implement selection sort
+*  Implement insertion sort
+*  Implement merge sort
+*  Implement quick sort
+*  Make a recursive function
+*  Implement xyz...etc 

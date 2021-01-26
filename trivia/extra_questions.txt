@@ -1,0 +1,22 @@
+Question/Riddle:
+I can change information on a page without reloading it.What am I?
+
+Answer: AJAX
+
+Question/Riddle:
+I am a common software development principle that seeks to reduce redundancy. What am I?
+
+Answer: DRY (Don't Repeat Yourself)
+
+Question/Riddle:
+
+I am a form of software development that writes test-cases first. What am I?
+
+Answer: TDD (Test Driven Development)
+
+
+Question/Riddle:
+I am a form of design that keeps the user in-mind. What am I?
+
+Answer: UCD (User-centered Design)
+

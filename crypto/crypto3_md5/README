@@ -1,0 +1,7 @@
+Flag: weakpassword
+
+Solution:
+- This shadow file is common within linux operating systems.
+- The shadow file stores the password of different users in hash form
+- The $1$ indicates the hash is MD5
+- Input the MD5 hash into some hash breaker and the result will be weakpassword

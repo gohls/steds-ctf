@@ -1,0 +1,7 @@
+So here is the flag encrypted:
+130E021B000D1A021244080A00080F4516184908185946001A03520D151C
+
+What's left to do is take use the passphrase:
+taco tues every day all day
+
+and XOR it. This is stressing me out.

@@ -1,0 +1,7 @@
+What was Bryan Cantrill one-liner response to David S. Miller's lengthy "But why?" explaination?
+
+
+---------------------
+Not in flag format.
+
+Created By: Simon 
